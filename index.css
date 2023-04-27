@@ -55,7 +55,7 @@ h1 {
     border-radius: 65%;
     min-width: 292px;
     margin-right: 67px;
-    background-image: url("images/Head_Shot.png");
+    background-image: url(Images/Head_Shot.png");
     background-size: contain;
 
 }
